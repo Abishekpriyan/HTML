@@ -26,5 +26,6 @@ In the second project, we will dive deeper into HTML by focusing on two importan
 - Form Tag: `<form>`
 - Input Tags: `<input>` (various types), `<textarea>`, `<select>`, `<option>`, `<label>`, `<button>`
 
-By the end of this project, you will be proficient in creating tables and forms, and you'll understand how to collect user input and process it.
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
